@@ -13,5 +13,5 @@
 * Your application only needs to work in Chrome
 
 ## How to Use Application:
-1. Git Clone the project
+1. `git clone` the repo.
 2. Run `npm i && npm start`
