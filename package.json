@@ -1,0 +1,26 @@
+{
+  "name": "forbes",
+  "version": "1.0.0",
+  "description": "forbes code challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "open index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MinesJA/forbes-challenge.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MinesJA/forbes-challenge/issues"
+  },
+  "homepage": "https://github.com/MinesJA/forbes-challenge#readme",
+  "dependencies": {
+    "sass": "^1.14.1"
+  },
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  }
+}
