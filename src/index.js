@@ -65,10 +65,10 @@ document.addEventListener("DOMContentLoaded", function(event){
   }
 
   window.onclick = function(event) {
-      if (event.target == modalContainer) {
-        modalContainer.style.display = "none";
-        modalContainer.firstElementChild.innerHTML = "";
-      }
+    if (event.target == modalContainer) {
+      modalContainer.style.display = "none";
+      modalContainer.firstElementChild.innerHTML = "";
+    }
   }
 
 });
